@@ -1,7 +1,0 @@
-[workspace]
-members = [
-    "pkgar",
-    "pkgar-core",
-    "pkgar-keys",
-]
-
